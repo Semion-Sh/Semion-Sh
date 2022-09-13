@@ -3,6 +3,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50"/></h1>
 <h3 align="center">Junior python developer from Belarus</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+python+developer+from+Belarus)](https://git.io/typing-svg)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semion-Sh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
