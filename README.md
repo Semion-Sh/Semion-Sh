@@ -8,9 +8,12 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Semion-Sh&repo=Telegram_Bot)](https://github.com/Semion-Sh/Telegram_Bot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Semion-Sh&repo=Telegram_Bot)](https://github.com/Semion-Sh/Telegram_Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Semion-Sh&repo=Rest-menu-django)](https://github.com/Semion-Sh/rest-menu-django)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Semion-Sh&repo=Telegram_Bot)](https://github.com/Semion-Sh/Telegram_Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Semion-Sh&repo=YouTube_downloader_flask)](https://github.com/Semion-Sh/YouTube_downloader_flask)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Semion-Sh&repo=Mobile-as-WebCam)](https://github.com/Semion-Sh/Mobile-as-WebCam)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Semion-Sh&repo=IOS_Calculator)](https://github.com/Semion-Sh/IOS_Calculator)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Semion-Sh)](https://github.com/ashutosh00710/github-readme-activity-graph)
