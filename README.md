@@ -1,3 +1,4 @@
+<img src="/Users/mac/Downloads/Black Minimal Motivation Quote LinkedIn Banner.PNG" alt="альтернативный текст">
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/semion-shandruk/" target="_blank">Semion</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50"/></h1>
 <h3 align="center">Junior python developer from Belarus</h3>
