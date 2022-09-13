@@ -3,6 +3,7 @@
 <h3 align="center">Junior python developer from Belarus</h3>
 
 <div>**My currently projects:**</div>
+**My currently projects:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Semion-Sh&repo=Telegram_Bot)](https://github.com/Semion-Sh/Telegram_Bot)
 
