@@ -15,5 +15,6 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Semion-Sh&count_private=true&theme=tokyonight&showicons=true)]()
 
-![](https://github.com/jasongaylord/github-stats/blob/master/generated/overview.svg)
-
+<a href="https://github.com/Semion-Sh/github-stats">
+![](https://github.com/Semion-Sh/github-stats/blob/master/generated/overview.svg)
+</a>
