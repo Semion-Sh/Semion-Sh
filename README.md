@@ -6,5 +6,5 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Semion-Sh)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- My currently projects:
+<div>- My currently projects:</div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Semion-Sh&repo=Telegram_Bot)](https://github.com/Semion-Sh/Telegram_Bot)
