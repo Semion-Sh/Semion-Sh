@@ -13,3 +13,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Semion-Sh&repo=Telegram_Bot)](https://github.com/Semion-Sh/Telegram_Bot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Semion-Sh&repo=Telegram_Bot)](https://github.com/Semion-Sh/Telegram_Bot)
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
