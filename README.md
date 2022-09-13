@@ -10,3 +10,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semion-Sh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Semion-Sh)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+![](https://github.com/Semion-Sh/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/Semion-Sh/github-stats/blob/master/generated/languages.svg)
