@@ -13,5 +13,5 @@
 
 
 
-![](https://github.com/Semion-Sh/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Semion-Sh/github-stats/blob/master/generated/languages.svg)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Semion-Sh&count_private=true&theme=tokyonight&showicons=true)]()
+
