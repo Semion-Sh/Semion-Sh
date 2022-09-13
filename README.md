@@ -4,15 +4,13 @@
 
 <h3 align="center">Junior Python Developer from Belarus</h3>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+python+developer+from+Belarus)](https://git.io/typing-svg) -->
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Semion-Sh&count_private=true&theme=tokyonight&showicons=true)]()
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Semion-Sh)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semion-Sh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Semion-Sh)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+python+developer+from+Belarus)](https://git.io/typing-svg) -->
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Semion-Sh&count_private=true&theme=tokyonight&showicons=true)]()
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Semion-Sh)
 
