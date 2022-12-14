@@ -9,4 +9,4 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=W+A+R+M+L+Y)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=B+E+S+T+ +R+E+G+A+R+D+S)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=B+E+S+T+--+R+E+G+A+R+D+S)](https://git.io/typing-svg)
