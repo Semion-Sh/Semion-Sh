@@ -3,6 +3,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50"/></h1>
 
 <h3 align="center">Junior Python Developer from Belarus</h3>
+<h4 align="center">Looking for a Job</h4>
+
 
 
 ![](https://img.shields.io/badge/author-Semion%20Shandruk-brightgreen) ![](https://img.shields.io/badge/language-Python-brightgreen)
