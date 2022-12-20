@@ -6,8 +6,9 @@
 
 ![](https://img.shields.io/badge/author-Semion%20Shandruk-brightgreen) ![](https://img.shields.io/badge/language-Python-brightgreen)
 
-
+<div align="center">
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Semion-Sh&count_private=true&theme=tokyonight&showicons=true)]()
+</div> 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semion-Sh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
