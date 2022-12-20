@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50"/></h1>
 
 <h3 align="center">Junior Python Developer from Belarus</h3>
-<h4 align="center">Looking for a Job</h4>
+<h3 align="center">Looking for a Job</h3>
 
 
 
