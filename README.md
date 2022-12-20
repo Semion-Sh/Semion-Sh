@@ -14,11 +14,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=B+E+S+T+--+R+E+G+A+R+D+S)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=thomasync&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thomasync&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Semion-Sh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
