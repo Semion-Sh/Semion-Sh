@@ -1,3 +1,5 @@
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+
 <div align="left"><img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="left"/><a href="https://www.linkedin.com/in/semion-shandruk/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a><a href="https://t.me/semion_sh" target="blank"><img align="center" src="https://cdn.vectorstock.com/i/preview-1x/23/69/telegram-icon-social-media-icon-white-paper-plane-vector-46402369.jpg" alt="rishav chanda" height="30" width="40" /></a><a href="https://instagram.com/semion_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a></div>  
