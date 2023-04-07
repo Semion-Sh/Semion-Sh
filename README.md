@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/semion-shandruk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://instagram.com/semion_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
- <a href="https://t.me/semion_sh" target="blank"><img align="center" src="https://i.pinimg.com/originals/64/3a/39/643a390481e7c9932ffe5d68af89e083.jpg" alt="rishav chanda" height="30" width="40" /></a>
+ <a href="https://t.me/semion_sh" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/89/110/png-transparent-telegrame-logo-telegrame-logo-social-media-social-media-logo-communication-3d-icon-thumbnail.png" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
 
