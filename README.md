@@ -15,10 +15,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Semion-Sh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Semion-Sh&&theme=tokyonight" alt="rishavchanda" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Semion-Sh&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<div align="left"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Semion-Sh&&theme=tokyonight" alt="rishavchanda" /></p></div>
+<div align="right"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Semion-Sh&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p></div>
