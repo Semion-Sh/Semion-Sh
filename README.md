@@ -1,8 +1,12 @@
 <!-- <img src="/Users/mac/Downloads/Black Minimal Motivation Quote LinkedIn Banner.PNG" alt="альтернативный текст"> -->
 <h1 align="center">Hi there, I'm Semion Shandruk
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50"/><p align="right"><a href="https://www.linkedin.com/in/semion-shandruk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50"/><p align="right">
+<a href="https://linkedin.com/in/thomasync" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/semion-shandruk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://instagram.com/semion_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
- <a href="https://t.me/semion_sh" target="blank"><img align="center" src="https://cdn.vectorstock.com/i/preview-1x/23/69/telegram-icon-social-media-icon-white-paper-plane-vector-46402369.jpg" alt="rishav chanda" height="30" width="40" /></a></p></h1>
+<a href="https://t.me/semion_sh" target="blank"><img align="center" src="https://cdn.vectorstock.com/i/preview-1x/23/69/telegram-icon-social-media-icon-white-paper-plane-vector-46402369.jpg" alt="rishav chanda" height="30" width="40" /></a></p></h1>
 
 
 <h3 align="center">Python Developer</h3>
