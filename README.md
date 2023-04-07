@@ -1,5 +1,4 @@
-<img src="/Users/mac/Downloads/Black Minimal Motivation Quote LinkedIn Banner.PNG" alt="альтернативный текст">
-<img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="center" />
+<div align="left"><img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="center"/></div>  
 <h1 align="center">Hi there, I'm Semion Shandruk
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50"/><p align="right">
 <a href="https://www.linkedin.com/in/semion-shandruk/" target="_blank">
@@ -14,8 +13,5 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="center" />
-</div>  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Semion-Sh&&theme=tokyonight" alt="rishavchanda" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Semion-Sh&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
