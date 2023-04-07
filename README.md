@@ -9,7 +9,9 @@
 <p align="left">
 
 <a href="www.linkedin.com/in/semion-shandruk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/semion_sh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+ <a href="https://t.me/semion_sh" target="blank"><img align="center" src="https://i.pinimg.com/originals/64/3a/39/643a390481e7c9932ffe5d68af89e083.jpg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
 
