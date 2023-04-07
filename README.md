@@ -1,6 +1,9 @@
 <!-- <img src="/Users/mac/Downloads/Black Minimal Motivation Quote LinkedIn Banner.PNG" alt="альтернативный текст"> -->
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/semion-shandruk/" target="_blank">Semion</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50"/></h1>
+<a href="https://www.linkedin.com/in/semion-shandruk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://instagram.com/semion_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+ <a href="https://t.me/semion_sh" target="blank"><img align="center" src="https://cdn.vectorstock.com/i/preview-1x/23/69/telegram-icon-social-media-icon-white-paper-plane-vector-46402369.jpg" alt="rishav chanda" height="30" width="40" /></a>
 
 <h3 align="center">Python Developer</h3>
 <h3 align="center">Looking for a Job</h3>
