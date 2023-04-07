@@ -1,8 +1,17 @@
 ![Design and Development](MyBanner.png)
 
-<div align="left"><img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="left"/><a href="https://www.linkedin.com/in/semion-shandruk/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<div class="header">
+  <a href="#default" class="logo">CompanyLogo</a>
+  <div class="header-right">
+    <div align="left"><img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="left"/>
+    <a href="#contact">Contact</a>
+    <a href="#about">About</a>
+  </div>
+</div>
+
+
+<a href="https://www.linkedin.com/in/semion-shandruk/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 <a href="https://t.me/semion_sh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="semion-sh" height="30" width="40" /></a><a href="https://instagram.com/semion_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="semion-sh" height="30" width="40" /></a></div>  
 <h1 align="center">Hi there, I'm Semion Shandruk<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50"/><p align="right"></p></h1>
 
