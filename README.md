@@ -11,7 +11,7 @@
 <h3 align="center">Python Developer</h3>
 <h3 align="center">Looking for a Job</h3>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="center" />
