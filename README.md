@@ -1,4 +1,4 @@
-![Design and Development](https://www.canva.com/design/DAE_jPRZiGE/Wd3Q9kWWymDIKalLU2Ylgw/view?utm_content=DAE_jPRZiGE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Design and Development](../MyBanner.png)
 
 <div align="left"><img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="left"/><a href="https://www.linkedin.com/in/semion-shandruk/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
