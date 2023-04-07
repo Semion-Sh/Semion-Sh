@@ -3,7 +3,7 @@
 <div class="header">
     <div align="left"><img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="left"/>
     <a class='link' href="https://www.linkedin.com/in/semion-shandruk/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" height="40" width="60" /></a>
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" height="40" width="60" style="margin-top: -10px;"/></a>
     <a href="https://t.me/semion_sh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="semion-sh" height="40" width="40" style="margin-top: -10px;"/></a>
     <a href="https://instagram.com/semion_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="semion-sh" height="30" width="40"/></a>
 </div>
