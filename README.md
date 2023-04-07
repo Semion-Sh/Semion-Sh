@@ -1,4 +1,4 @@
-<div align="left"><img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="center"/></div>  
+<div align="left"><img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="left"/></div>  
 <h1 align="center">Hi there, I'm Semion Shandruk
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50"/><p align="right">
 <a href="https://www.linkedin.com/in/semion-shandruk/" target="_blank">
