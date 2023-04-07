@@ -1,4 +1,5 @@
 <!-- <img src="/Users/mac/Downloads/Black Minimal Motivation Quote LinkedIn Banner.PNG" alt="альтернативный текст"> -->
+<img src="https://komarev.com/ghpvc/?username=Semion-Sh&&style=flat-square" align="center" />
 <h1 align="center">Hi there, I'm Semion Shandruk
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="50"/><p align="right">
 <a href="https://www.linkedin.com/in/semion-shandruk/" target="_blank">
