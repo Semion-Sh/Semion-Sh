@@ -10,7 +10,7 @@
 
 <h3 align="center">Python Developer</h3>
 <h3 align="center">Looking for a Job</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Semion&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Semion-Sh&&theme=tokyonight" alt="rishavchanda" /></p>
 
 
 
