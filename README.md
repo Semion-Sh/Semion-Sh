@@ -27,7 +27,7 @@
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usbtypec1&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Semion-Sh&theme=2077)
                                                                                                                             
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Semion-Sh&&theme=tokyonight" alt="rishavchanda" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Semion-Sh&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
